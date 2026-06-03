@@ -1,26 +1,36 @@
 # Sistema de Ventas SQL
 
-Proyecto de base de datos desarrollado para practicar modelado relacional, consultas SQL y gestión de información comercial.
+Proyecto de base de datos relacional desarrollado para practicar SQL y MySQL.
 
 ## Objetivos
 
 * Diseñar una base de datos relacional.
 * Gestionar clientes, productos y ventas.
-* Practicar consultas SQL utilizadas en entornos reales.
-* Aplicar conceptos de normalización y relaciones entre tablas.
+* Aplicar claves primarias y foráneas.
+* Realizar consultas utilizando JOIN.
 
 ## Tecnologías
 
 * SQL
 * MySQL
+* MySQL Workbench
 
-## Estructura prevista
+## Estructura del proyecto
 
-* Creación de tablas
-* Inserción de datos
-* Consultas básicas
-* Consultas avanzadas con JOIN
-* Reportes de ventas
+* crear_tablas.sql
+* insertar_datos.sql
+* consultas.sql
+
+## Conceptos aplicados
+
+* CREATE DATABASE
+* CREATE TABLE
+* PRIMARY KEY
+* AUTO_INCREMENT
+* FOREIGN KEY
+* INSERT
+* SELECT
+* INNER JOIN
 
 ## Autor
 
